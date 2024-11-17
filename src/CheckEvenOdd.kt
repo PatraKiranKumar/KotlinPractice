@@ -16,4 +16,5 @@ fun main(){
     CheckEvenOdd(-100)
 
     CheckEvenOdd(100)
+    CheckEvenOdd(12)
 }

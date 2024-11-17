@@ -10,4 +10,6 @@ fun LinearSearch(target:Int)
 fun main()
 {
    LinearSearch(8)
+   LinearSearch(18)
+   LinearSearch(9)
 }
