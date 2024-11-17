@@ -14,5 +14,7 @@ fun main(){
     else
     {
         println("it is not a pallindrome")
+        println("it is not a pallindrome")
+        println("it is not a pallindrome")
     }
 }
