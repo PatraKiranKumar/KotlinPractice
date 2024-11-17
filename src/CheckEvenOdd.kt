@@ -12,4 +12,8 @@ fun CheckEvenOdd(number:Int){
 fun main(){
 
     CheckEvenOdd(-2)
+
+    CheckEvenOdd(-100)
+
+    CheckEvenOdd(100)
 }
